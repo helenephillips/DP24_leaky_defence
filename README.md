@@ -18,3 +18,10 @@ Antarctica is a frozen continent surrounded by icy waters. The reason that warme
 ## Project Proposal
 
 [Read proposal](https://github.com/helenephillips/DP24_leaky_defence/blob/169b924e3c8d3a88bec41aabe7d322c9c6d310ea/DP240102358_FINAL.pdf)
+
+## Postdoc project
+[Dr Jan Jaap Meijer]{https://discover.utas.edu.au/JanJaap.Meijer}  
+
+[GitHub repository]{https://github.com/janjaapmeijer/postdoc}
+
+## PhD projects
