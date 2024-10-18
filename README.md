@@ -7,7 +7,7 @@ Southern Ocean currents are barriers to the oceanic transport of heat toward Ant
 Antarctica is a frozen continent surrounded by icy waters. The reason that warmer waters to the north are kept away from Antarctica are the powerful ocean currents, called the Antarctic Circumpolar Current and Antarctic Slope Current, that encircle Antarctica. These currents create barriers to the southward movement of warm waters but in some places the barrier leaks and heat gets through. This often occurs in places where deep currents run into rough undersea mountains, causing the currents to become wavy and create eddies. These eddies allow heat to move across the barrier and closer to Antarctica. We know that the strong winds over the Southern Ocean have a big impact on the currents and stronger winds lead to more eddies. The westerly winds have been getting stronger for decades and are likely to continue to get stronger. We expect that the southward movement of heat will increase as a result, which will increase the rate that Antarctica is melting and sea levels are rising. Our project will use new observations and models of the ocean to understand how eddies are moving heat towards Antarctica. We will apply this new understanding to turn daily maps of ocean sea surface height from satellites into daily maps of the movement of heat in the Southern Ocean toward Antarctica. This information will help governments plan how to respond to rising sea levels and how fast they need to act
 
 ## Chief Investigators
-[Prof Helen Phillips](https://discover.utas.edu.au/H.E.Phillips)
+[Prof Helen Phillips](https://discover.utas.edu.au/H.E.Phillips) \\
 [Dr Annie Foppert](https://discover.utas.edu.au/Annie.Foppert)
 [Prof Nathaniel Bindoff](https://discover.utas.edu.au/N.Bindoff)
 [A/Prof Paul Spence](https://discover.utas.edu.au/Paul.Spence)
@@ -17,4 +17,4 @@ Antarctica is a frozen continent surrounded by icy waters. The reason that warme
 
 ## Project Proposal
 
-[]()
+[Read proposal](https://github.com/helenephillips/DP24_leaky_defence/blob/169b924e3c8d3a88bec41aabe7d322c9c6d310ea/DP240102358_FINAL.pdf)
