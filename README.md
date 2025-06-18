@@ -25,3 +25,6 @@ Antarctica is a frozen continent surrounded by icy waters. The reason that warme
 [GitHub repository](https://github.com/janjaapmeijer/postdoc)
 
 ## PhD projects
+
+## Project repositories
+[EM-APEX Denman Antarctic Slope Front](https://www.github.com/southern-ocean-dynamics/ema-denman-asf)
